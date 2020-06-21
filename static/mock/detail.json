@@ -1,0 +1,25 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "银杏湖乐园(AAAA景区)",
+    "bannerImg": "//img1.qunarzz.com/sight/p0/1904/31/3151f5637e832d86a3.img.jpg_600x330_8ce7e745.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1511/94/94fd49f633a5eb5590.img.jpg_r_800x800_beb76153.jpg", "http://img1.qunarzz.com/sight/p0/1707/76/7675dc7a45dafd28a3.img.jpg_r_800x800_96657149.jpg", "http://img1.qunarzz.com/sight/p0/1604/4a/4a8ac5bde1092d9190.water.jpg_r_800x800_2ef76fed.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+        }]
+      }, {
+        "title": "学生票"
+      }, {
+        "title": "儿童票"
+      }, {
+        "title": "特惠票"
+      }]
+  }
+}
